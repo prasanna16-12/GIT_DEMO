@@ -21,3 +21,6 @@ started working on origin master baranch
 
 
 diff demo
+
+
+diff demo 2 from remote
