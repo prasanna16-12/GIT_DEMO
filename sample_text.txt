@@ -9,3 +9,5 @@ newwwwwwwwww datta added
 hellooo difff
 
 bug solved with branch with bug1 franch
+
+im in master and changed file in master branch
